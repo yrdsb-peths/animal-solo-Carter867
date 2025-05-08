@@ -9,7 +9,7 @@ public class MyWorld extends World {
         
         
         
-        Elephant elephant = new elephant();
+        Elephant elephant = new Elephant();
         addObject(elephant, 300, 300);   
         //creates a label
         scoreLabel = new Label(0, 80);
